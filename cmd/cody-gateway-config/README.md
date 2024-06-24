@@ -28,3 +28,4 @@ go test ./internal/modelconfig
 # as expected.
 sg lint --fix format
 ```
+Hello World
