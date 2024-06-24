@@ -17,3 +17,5 @@ from 125334 rows
 to   100428 rows
 reduction by 19.87%
 ```
+Hello Sourcegraph!
+Goodbye

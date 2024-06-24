@@ -41,3 +41,5 @@ fn main() {
 [locals query DSL]: docs/locals-query-dsl.md
 [locals scoping]: docs/locals-scoping.md
 [tree-sitter query]: https://tree-sitter.github.io/tree-sitter/using-parsers#pattern-matching-with-queries
+Hello Sourcegraph!
+Goodbye

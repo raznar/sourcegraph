@@ -60,3 +60,5 @@ See the [Add and Update Wolfi Base Images](https://docs-legacy.sourcegraph.com/d
                                      │  )                                   │
                                      │                                      │
                                      └──────────────────────────────────────┘
+Hello Sourcegraph!
+Goodbye

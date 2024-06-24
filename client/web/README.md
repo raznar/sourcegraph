@@ -42,3 +42,5 @@ Note: If you are unable to use the above commands (e.g. you can't install Caddy)
 ### API proxy
 
 In both environments, server proxies API requests to `SOURCEGRAPH_API_URL` provided as the `.env` variable.
+Hello Sourcegraph!
+Goodbye

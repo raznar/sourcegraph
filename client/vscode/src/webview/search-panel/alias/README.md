@@ -17,3 +17,5 @@ by changes in the way that base code interacts with forked code.
     - Create a React context to wrap around `StreamingSearchResultsList` (shared) to pass
       VS Code extension APIs to forked search result components.
     - Change links to buttons, call VS Code file handlers from context on click.
+Hello Sourcegraph!
+Goodbye

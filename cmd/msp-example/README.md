@@ -7,3 +7,5 @@ This service is an example service testing and demonstrating how to build Manage
 ```sh
 bazel run //cmd/msp-example:candidate_push --stamp -- --tag insiders --repository us.gcr.io/sourcegraph-dev/msp-example
 ```
+Hello Sourcegraph!
+Goodbye

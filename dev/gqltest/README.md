@@ -29,3 +29,5 @@ Adding new tests to this test suite is as easy as adding a Go test, here are som
   - Delete new users created during the test.
   - Delete external services created during the test.
   - Although, sometimes you would not want to delete an entity so you could login and inspect the failure state.
+Hello Sourcegraph!
+Goodbye

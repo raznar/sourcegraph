@@ -7,3 +7,5 @@ This package is a collection of CLI tools to perform various operations in batch
 - `codehostcopy`: copies repositories from one codehost to another.
 
 Please see the individual READMEs for how to use these tools.
+Hello Sourcegraph!
+Goodbye
