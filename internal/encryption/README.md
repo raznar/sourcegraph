@@ -45,3 +45,5 @@ The `encryption.Key` interface was built to be simple, and intended to be extend
 - AWS KMS
 - Mounted Key
 - No Op
+Hello Sourcegraph!
+Goodbye

@@ -31,3 +31,5 @@ leading to additional HTTP requests being made unintentionally!
 const call = useMemo(() => Client.createStripeCheckoutSession(req), [req.customerEmail, req.showPromoCodeField])
 const { loading, error, data } = useApiCaller(call)
 ```
+Hello Sourcegraph!
+Goodbye

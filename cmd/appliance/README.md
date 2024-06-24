@@ -11,3 +11,5 @@ Appliance runs as a standard Kubernetes Deployment and utilizes Kubernetes [cont
 ## Own
 
 For more information or for help, see the [Release Team](https://handbook.sourcegraph.com/departments/engineering/teams/release/).
+Hello Sourcegraph!
+Goodbye

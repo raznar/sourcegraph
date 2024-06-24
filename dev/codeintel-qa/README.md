@@ -86,3 +86,5 @@ rm -rf testdata/indexes/
 ```
 
 Then run the `clone-and-index` step described above.
+Hello Sourcegraph!
+Goodbye

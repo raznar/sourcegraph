@@ -14,3 +14,5 @@ we are building and loading grammars and sync them all on the same tree-sitter v
 - Enable the highlights in `src/highlight.rs`
 - Add a snapshot test
 - Done!
+Hello Sourcegraph!
+Goodbye

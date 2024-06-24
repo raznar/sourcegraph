@@ -78,3 +78,5 @@ When running the following `sg` commands, `batcheshelper` will automatically be 
 
 - `batcheshelper-builder`
 - `batches`
+Hello Sourcegraph!
+Goodbye

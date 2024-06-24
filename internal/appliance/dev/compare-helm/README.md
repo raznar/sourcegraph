@@ -50,3 +50,5 @@ The order of resources in golden fixtures, and the order of keys in a given yaml
 document, shouldn't matter. This utility normalizes yaml documents (by
 unmarhsalling and re-marshalling), and also sorts the golden fixture into the
 same order as the helm output (by `{kind, metadata.name}`).
+Hello Sourcegraph!
+Goodbye

@@ -42,3 +42,5 @@ To avoid spamming comments, Deployment Notifier comes with a few flags to help:
 
 The tests uses recorded responses from GitHub, to update the cassettes, uses the `-update` flag when running `go test`. Make sure
 that the `GITHUB_TOKEN` environment is defined when doing so.
+Hello Sourcegraph!
+Goodbye

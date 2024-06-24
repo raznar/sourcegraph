@@ -15,3 +15,5 @@ To get an example config, you can do:
 ```
 codehostcopy example > my-config.cue
 ```
+Hello Sourcegraph!
+Goodbye

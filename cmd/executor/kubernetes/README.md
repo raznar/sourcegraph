@@ -98,3 +98,5 @@ Run the following command to delete the executor.
 ```bash
 kubectl delete -f .
 ```
+Hello Sourcegraph!
+Goodbye

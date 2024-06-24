@@ -23,3 +23,5 @@ Flags:
 - Managing the workload
   - `state`: sqlite database name to create or resume from (default `state.db`)
   - `retry`: Number of times to retry pushind (can be tedious at high concurrency)
+Hello Sourcegraph!
+Goodbye
