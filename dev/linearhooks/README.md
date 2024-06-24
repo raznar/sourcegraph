@@ -41,3 +41,4 @@ Unfortunately, Linear only supports `authorization_code` grant type, but not `cl
 ## Configuration
 
 Refer to [config.example.yaml](./config.example.yaml)
+Hello World
